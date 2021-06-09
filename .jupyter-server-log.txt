@@ -32,3 +32,8 @@ Websocket closed
 [I 17:57:39.486 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[I 18:10:58.667 NotebookApp] Saving file at /exercise1.md
+Websocket closed
+[I 18:13:39.669 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
